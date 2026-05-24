@@ -10,6 +10,7 @@ This project analyzes supply chain operations data to understand supplier perfor
 - Jupyter Notebook
 - VS Code
 - GitHub
+- Tableau
 
 ---
 
@@ -45,9 +46,9 @@ The dataset contains supply chain information including:
 ## 🚧 Current Progress
 - [x] Data loaded and explored
 - [x] Initial structure analysis
-- [ ] KPI analysis (in progress)
-- [ ] Dashboard creation
-- [ ] Final insights summary
+- [x] KPI analysis (in progress)
+- [x] Dashboard creation
+- [x] Final insights summary
 
 ---
 
