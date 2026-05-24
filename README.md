@@ -67,5 +67,5 @@ The dataset contains supply chain information including:
 ---
 
 ## Tableau Dashboard
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot]!(dashboard/dashboard_screenshot.png)
 ![Visible Label](folder/filename.png)
