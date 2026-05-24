@@ -5,6 +5,12 @@ This project analyzes supply chain operations data to understand supplier perfor
 
 ---
 
+## Tableau Dashboard
+![Dashboard Screenshot](dashboard/tableau_dashboard_screenshot.png)
+![Visible Label](folder/filename.png)
+
+---
+
 ## 🧰 Tools Used
 - Python (Pandas)
 - Jupyter Notebook
@@ -65,8 +71,3 @@ The dataset contains supply chain information including:
 ### Product Performance
 - Skincare is the top-performing category in both revenue and units sold, indicating strong demand concentration.
 
----
-
-## Tableau Dashboard
-![Dashboard Screenshot](dashboard/tableau_dashboard_screenshot.png)
-![Visible Label](folder/filename.png)
